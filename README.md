@@ -1,4 +1,11 @@
 # MoonBitcoin.faucets
+
+<p>
+Moon Bitcoin is a bitcoin faucet with a difference...YOU decide how often to claim!
+Whereas most faucets only allow you to claim once per hour or once per day, we allow you to claim as often or as little as you like* 
+The faucet will gradually fill up - quite quickly initially but it will slow down over time - until you make a claim. So the longer you leave it the more you will be able to claim.
+You may prefer to claim a smaller amount every 5 minutes, or visit once per day and claim the large amount that has built up while you were away!
+<p>
 <ul>
 <li>不需要注冊，只要輸入您在Coinpot所注冊的EMAIL，系統會馬上連動Coinpot。您所有的數位貨幣的收款都會直接匯入至CoinPot的帳號</li>
 <li>5分鐘收款一次。若5分鐘內沒有去領取免費數位貨幣，金額會一直在累積，但累積的速度會越來越慢，以我實測的狀況，5分鐘目前約可以取得4 Satoshi，10分鐘後郤只能領7 Satoshi。隨著時間越長，累積的速度會越慢</li>
