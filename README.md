@@ -1,4 +1,11 @@
-# MoonBitcoin.faucets
+# MoonBitcoin
+<ul>
+  <li>Wait(min): 5</li>
+  <li>Min(satoshi): 8</li>
+  <li>Max(satoshi): 455</li>
+  <li>Bonus(%): 100</li>
+  <li>Withdraw(btc): 0.0001</li>
+</ul>
 
 <p>
 Moon Bitcoin is a bitcoin faucet with a difference...YOU decide how often to claim!
