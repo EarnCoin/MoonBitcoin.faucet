@@ -1,7 +1,7 @@
 # MoonBitcoin
 <ul>
   <li>Wait(min): 5</li>
-  <li>Min(satoshi): 8</li>
+  <li>Min(satoshi): 3</li>
   <li>Max(satoshi): 455</li>
   <li>Bonus(%): 100</li>
   <li>Withdraw(btc): 0.0001</li>
